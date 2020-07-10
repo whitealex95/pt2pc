@@ -69,7 +69,7 @@ This repository provides data and code as follows.
     utils.py                    # contain utility functions
 ```
 
-This code has been tested on Ubuntu 16.04 with Cuda 9.0, GCC 5.4.0, Python 3.6.5 and PyTorch 1.1.0. 
+This code has been tested on Ubuntu 18.04 with Cuda 10.0, GCC 7.5.0, Python 3.7 and PyTorch 1.4.0. 
 
 Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScEnRD_b4elKVUHAgWomfmadw6-30caNJ5xJ4ahsu-tkTdXBg/viewform?usp=sf_link) to download the necessary data.
 
